@@ -1,16 +1,16 @@
 # Skin Cancer Classification using ResNet50
 
-## 📌 Overview
+##  Overview
 
 This project classifies skin lesion images into 7 categories using deep learning.
 
-## 🧠 Model
+##  Model
 
 * ResNet50 (pretrained)
 * Transfer Learning (2-phase training)
 * Achieved ~86% test accuracy
 
-## 📊 Classes
+##  Classes
 
 * akiec
 * bcc
@@ -20,21 +20,21 @@ This project classifies skin lesion images into 7 categories using deep learning
 * nv
 * vasc
 
-## ⚙️ Features
+##  Features
 
 * Data augmentation
 * Class imbalance handling
 * Confusion matrix & evaluation
 
-## 🚀 How to run
+##  How to run
 
 1. Install dependencies
 2. Run notebook
 
-## 📁 Dataset
+##  Dataset
 
 HAM10000 dataset (not included)
 
-## 🎯 Result
+##  Result
 
 Test Accuracy: ~86%
